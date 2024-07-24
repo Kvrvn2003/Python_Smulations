@@ -1,1 +1,2 @@
 # Python_Smulations
+The Kalman Filter is a powerful algorithm used for estimating the state of a dynamic system from a series of noisy measurements. It is widely applied in various fields such as robotics, control systems, navigation, and signal processing. The filter works by predicting the state of the system at each time step and then updating this prediction based on new measurements, optimizing the estimates by minimizing the mean of the squared error.
